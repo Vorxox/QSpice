@@ -1,0 +1,3 @@
+.subckt divide a b out
+E1 out 0 Value = {V(a)/V(b)}
+.ends divide
